@@ -1,4 +1,4 @@
-# Spam Classifier
+# Spam Classifier Web App
 
 Trained a spam classifier web app to classify text between spama nd non-spam classification. 
 
